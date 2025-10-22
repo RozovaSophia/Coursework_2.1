@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Frontend-разработчик в команду DreamHunters",
+    "url": "https://hh.ru/vacancy/126815223",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "HeadHunter",
+    "requirement": "Хорошо знаешь JavaScript, TypeScript и React. Знаешь, куда смотреть при разработке страниц. Как будем знакомиться: Затем тебя ждет техническое полуторачасовое..."
+  },
+  {
+    "name": "Golang разработчик",
+    "url": "https://hh.ru/vacancy/126793057",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "Иви",
+    "requirement": "Качественный опыт написания кода на Golang от 2-х лет. Опыт написания кода на <highlighttext>Python</highlighttext>. Свободное владение linux (bash, sed..."
+  },
+  {
+    "name": "Стажёр — менеджер продукта",
+    "url": "https://hh.ru/vacancy/126743529",
+    "salary_from": 80000,
+    "salary_to": 80000,
+    "employer": "VK",
+    "requirement": "Опыт работы с облачными платформами (AWS, Google, Yandex, VK, Sber). Знание одного из языков программирования: <highlighttext>Python</highlighttext>, Go, Java/Scala, Bash..."
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/126792348",
+    "salary_from": 180000,
+    "salary_to": 200000,
+    "employer": "Космос Про Медиа",
+    "requirement": "Опыт от 2–3 лет в разработке backend-сервисов на <highlighttext>Python</highlighttext>. Хорошее знание SQL и практический опыт работы с PostgreSQL. "
+  },
+  {
+    "name": "Инженер-тестировщик (ручное тестирование)",
+    "url": "https://hh.ru/vacancy/126783216",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "Цифровые решения, НПП",
+    "requirement": "Опыт траблшутинга сетевого оборудования и сетевых протоколов. Знание протоколов динамической маршрутизации OSPF, BGP, MPLS. Знание основ языка программирования <highlighttext>Python</highlighttext>, других..."
+  },
+  {
+    "name": "QA engineer / тестировщик (middle+)",
+    "url": "https://hh.ru/vacancy/126701393",
+    "salary_from": 170000,
+    "salary_to": 200000,
+    "employer": "Туроператор Русь",
+    "requirement": "2+ года проведения тестирования коммерческого продукта. Знание принципов web-и клиент–серверных приложений. Опыт работы с Postman, Charles, SQL..."
+  },
+  {
+    "name": "Технический директор (CTO)",
+    "url": "https://hh.ru/vacancy/126792782",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "Novaterio",
+    "requirement": "Наш технологический стек: С, C++, <highlighttext>Python</highlighttext>, Java, React, Unreal, blender. Будет плюсом опыт с Assembler, Arduino. Знание специфики работы с..."
+  },
+  {
+    "name": "Программист Python junior",
+    "url": "https://hh.ru/vacancy/126716662",
+    "salary_from": 100000,
+    "salary_to": 150000,
+    "employer": "CDNvideo (ООО СДН-видео)",
+    "requirement": "<highlighttext>Python</highlighttext> (asyncio, aiohttp, Tornado). Навыки работы с Linux (командная строка, API). Хорошее знание паттернов проектирования, структур данных и классических алгоритмов. "
+  },
+  {
+    "name": "Аналитик данных",
+    "url": "https://hh.ru/vacancy/126791318",
+    "salary_from": 250000,
+    "salary_to": 250000,
+    "employer": "IT-Implant",
+    "requirement": null
+  },
+  {
+    "name": "Инженер по тестированию ПО",
+    "url": "https://hh.ru/vacancy/126111343",
+    "salary_from": 160000,
+    "salary_to": 200000,
+    "employer": "BRAM Technologies",
+    "requirement": "Опыт ручного тестирования. Опыт автоматизации тестирования на <highlighttext>Python</highlighttext>. Понимание принципов работы веб-приложений, микросервисной архитектуры и асинхронного взаимодействия. "
+  },
+  {
+    "name": "Android-разработчик",
+    "url": "https://hh.ru/vacancy/126784662",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "АТОЛ, группа компаний",
+    "requirement": "Умение пользоваться GIT, Jira, Confluence. Уверенный пользователь Linux. Знание Kotlin, Bash, <highlighttext>Python</highlighttext>, Perl, Makefile, C, C++. Опыт работы с платформой..."
+  },
+  {
+    "name": "Дата аналитик",
+    "url": "https://hh.ru/vacancy/126766988",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "Москвариум",
+    "requirement": "Понимание принципов работы и устройства БД. Понимание принципов работы ETL-процессов. Владение SQL, владение <highlighttext>Python</highlighttext>/R. Опыт работы с BI..."
+  },
+  {
+    "name": "Data Scientist (Junior)",
+    "url": "https://hh.ru/vacancy/126718438",
+    "salary_from": 100000,
+    "salary_to": 100000,
+    "employer": "BND LLC",
+    "requirement": "Высшее образование (математическое, техническое). Возможность работать полную рабочую неделю. Знание современных архитектур нейросетей. Понимание как устроены классические алгоритмы машинного обучения..."
+  },
+  {
+    "name": "Системный аналитик",
+    "url": "https://hh.ru/vacancy/126778098",
+    "salary_from": 160000,
+    "salary_to": 200000,
+    "employer": "Soar high software",
+    "requirement": "Высшее образование (желательно техническое или математическое). Плюсом будет знание языков программирования (например, SQL, <highlighttext>Python</highlighttext>). Понимание принципов работы реляционных баз данных. "
+  },
+  {
+    "name": "Младший аналитик данных",
+    "url": "https://hh.ru/vacancy/126687782",
+    "salary_from": 90000,
+    "salary_to": 90000,
+    "employer": "МКК Финмолл",
+    "requirement": "Знание <highlighttext>Python</highlighttext> и библиотеки Pandas для анализа и трансформации данных. Опыт работы с MS Excel. Понимание принципов работы с большими..."
+  },
+  {
+    "name": "Инженер по тестированию",
+    "url": "https://hh.ru/vacancy/126010780",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "Национальный туроператор Алеан",
+    "requirement": "Опыт работы с jira/confluence. Знание языка <highlighttext>Python</highlighttext>. Знание принципов ООП и умение их применять. Умение работать с тестовым фреймворком..."
+  },
+  {
+    "name": "Аналитик данных",
+    "url": "https://hh.ru/vacancy/126671818",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "Х5 IMPORT",
+    "requirement": "Отличное владение MS Excel (ВПР, сводные, формулы), Power Point. Опыт работы с Power BI, Power Ouery, Power Pivot. Знание <highlighttext>Python</highlighttext>..."
+  },
+  {
+    "name": "Junior Golang Developer",
+    "url": "https://hh.ru/vacancy/126721870",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "Rambler&Co",
+    "requirement": "Опыт программирования от 6 месяцев на Golang или Php/<highlighttext>Python</highlighttext>/C/C++/C#/Java. Понимание принципа построения API. "
+  },
+  {
+    "name": "Аналитик данных",
+    "url": "https://hh.ru/vacancy/126615220",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "Mediascope",
+    "requirement": "Опыт работы от 2-х лет с данными в крупных интернет-проектах в качестве аналитика. Знание SQL, <highlighttext>Python</highlighttext> (библиотеки для..."
+  },
+  {
+    "name": "Специалист по информационной безопасности (ИБ)",
+    "url": "https://hh.ru/vacancy/126795953",
+    "salary_from": 450000,
+    "salary_to": 450000,
+    "employer": "ROSSKO",
+    "requirement": "Опыт интеграции сканеров в CI/CD (Jenkins/GitLab CI/GitHub Actions). Навыки написания скриптов (<highlighttext>Python</highlighttext>, Bash, PowerShell) для автоматизации. "
+  },
+  {
+    "name": "Программист-разработчик",
+    "url": "https://hh.ru/vacancy/126787315",
+    "salary_from": 120000,
+    "salary_to": 120000,
+    "employer": "Фбит Тиам",
+    "requirement": "Опыт работы с Git. Технический английский. Будет плюсом: Владение <highlighttext>Python</highlighttext>. Опыт работы с ELK, Redis. Опыт работы с ansible. "
+  },
+  {
+    "name": "DevOps-инженер",
+    "url": "https://hh.ru/vacancy/126372405",
+    "salary_from": 200000,
+    "salary_to": 260000,
+    "employer": "IT-Implant",
+    "requirement": "Умение писать скрипты на Bash или <highlighttext>Python</highlighttext>. Базовые знания SQL и понимание работы с СУБД (PostgreSQL, MySQL). Умение локализовать проблему..."
+  },
+  {
+    "name": "Промпт-инженер / AI-креатор",
+    "url": "https://hh.ru/vacancy/126705471",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "BBDO",
+    "requirement": "Опыт тестирования и улучшения результатов (итерации, negative prompts, контроль деталей). Базовые навыки <highlighttext>Python</highlighttext> или workflow-инструментов для автоматизации и интеграции. "
+  },
+  {
+    "name": "Middle GO разработчик (TI)",
+    "url": "https://hh.ru/vacancy/126815709",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "Positive Technologies",
+    "requirement": "Опыт разработки на Golang от 2 лет. Уверенное знание SQL. Знание и опыт в разработке многопоточных приложений. Умение писать юнит..."
+  },
+  {
+    "name": "AI-разработчик нового поколения (Python / Go / PHP / Frontend)",
+    "url": "https://hh.ru/vacancy/126794177",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "СП Солюшен",
+    "requirement": "Мы заметили: разработчики, которые по собственному желанию работали в выходные, стабильно росли быстрее. Принцип простой: чем успешнее твой проект — тем..."
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://hh.ru/vacancy/126764049",
+    "salary_from": 235000,
+    "salary_to": 260000,
+    "employer": "Леусова Екатерина Сергеевна",
+    "requirement": "У тебя есть опыт работы с высоконагруженными системами. Глубоко понимаешь backend-архитектуру и REST. Можно расти до эксперта или архитектора..."
+  },
+  {
+    "name": "Data Analyst",
+    "url": "https://hh.ru/vacancy/125062122",
+    "salary_from": 140000,
+    "salary_to": 180000,
+    "employer": "Кофемания",
+    "requirement": "Умение расставить приоритеты и не откладывать сложные важные задачи. Понимание базовых принципов ML. SQL, <highlighttext>Python</highlighttext>, Pandas. ClickHouse, Postgres, MS SQL..."
+  },
+  {
+    "name": "Frontend-разработчик (React/Next.js)",
+    "url": "https://hh.ru/vacancy/126628106",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "ФГУП ПВС МВД России",
+    "requirement": "Знание тестирования (Jest, React Testing Library). Базовые навыки бэкенда (<highlighttext>Python</highlighttext>/FastAPI — для понимания архитектуры). Английский — уровень Pre-Intermediate+ (чтение документации). "
+  },
+  {
+    "name": "QA/специалист тестирования (Manual)",
+    "url": "https://hh.ru/vacancy/126766995",
+    "salary_from": 1200,
+    "salary_to": 2000,
+    "employer": "LOOPTAIN LIMITED",
+    "requirement": "Опыт тестирования API и работы с инструментами postman, charles, swagger. Базовые знания ООП и <highlighttext>python</highlighttext>/java (рассмотрим и другие языки). "
+  },
+  {
+    "name": "Manual QA Engineer ПО",
+    "url": "https://hh.ru/vacancy/123815212",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "МКО Системы",
+    "requirement": "Опыт работы с <highlighttext>Python</highlighttext>. Опыт работы с SQLite. Опыт написания несложных скриптов (cmd/powershell/bash/<highlighttext>python</highlighttext>/vbs). Опыт работы с..."
+  },
+  {
+    "name": "Руководитель группы разработки",
+    "url": "https://hh.ru/vacancy/126766945",
+    "salary_from": 530000,
+    "salary_to": 650000,
+    "employer": "Институт Smart",
+    "requirement": "Фокус на продуктовом мышлении и глубоком понимании бизнес требований. Опыт в fullstack разработке (желательно <highlighttext>python</highlighttext>/typescript). Опыт работы с реляционными..."
+  },
+  {
+    "name": "QA инженер / инженер по тестированию",
+    "url": "https://hh.ru/vacancy/126734790",
+    "salary_from": 130000,
+    "salary_to": 130000,
+    "employer": "РБК",
+    "requirement": "Базовые знания JS для написания скриптов Postman или базовые знания <highlighttext>Python</highlighttext>. Базовые знания в автоматизации. Опыт мобильного тестирования. "
+  },
+  {
+    "name": "Специалист по документообороту",
+    "url": "https://hh.ru/vacancy/126675449",
+    "salary_from": 70000,
+    "salary_to": 100000,
+    "employer": "QA.Guru",
+    "requirement": "2+ года опыта в документообороте/делопроизводстве/бэк‑офисе. Уверенная работа с системами ЭДО (например, Диадок/СБИС/Контур — любой из..."
+  },
+  {
+    "name": "Тестировщик ПО",
+    "url": "https://hh.ru/vacancy/126577238",
+    "salary_from": 140000,
+    "salary_to": 170000,
+    "employer": "Inline Telecom Solutions",
+    "requirement": "Уверенное знание Linux, опыт работы в командной строке. Опыт программирования и знание <highlighttext>Python</highlighttext>. Опыт работы с фреймворками для автоматизации тестирования..."
+  },
+  {
+    "name": "Backend-разработчик",
+    "url": "https://hh.ru/vacancy/126788399",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "OPEN",
+    "requirement": "Отличные знания в разработке микросервисов на <highlighttext>Python</highlighttext>. Стек - FastAPI + Poetry + PostgreSQL + Redis + Kafka + Docker +..."
+  },
+  {
+    "name": "Аналитик данных",
+    "url": "https://hh.ru/vacancy/125894889",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "Совкомбанк Страхование",
+    "requirement": "Умение переводить бизнес-задачи в технические требования и контролировать их реализацию. Опыт работы в <highlighttext>Python</highlighttext> будет Вашим преимуществом."
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/126642474",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "Secunda",
+    "requirement": "Что мы от тебя хотим: Опыт коммерческой разработки от 3х лет. Уверенные знания <highlighttext>python</highlighttext>; Понимание асинхронности. Опыт работы с..."
+  },
+  {
+    "name": "Support Engineer/Инженер поддержки",
+    "url": "https://hh.ru/vacancy/126788242",
+    "salary_from": 90000,
+    "salary_to": 90000,
+    "employer": "DataGo!",
+    "requirement": "Уверенные знания СУБД (Clickhouse/PostgreSQL) и умение писать SQL-запросы. Базовые навыки <highlighttext>Python</highlighttext> - ты можешь прочитать код и разобраться в..."
+  },
+  {
+    "name": "Middle Manual QA Engineer",
+    "url": "https://hh.ru/vacancy/126711836",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "Платформа Сейлз Чейн",
+    "requirement": "Имеешь хороший опыт тестирования frontend и backend задач. Понимаешь CI/CD процессы, опыт работы с GitLab будет как плюс. "
+  },
+  {
+    "name": "Аналитик данных (WB)",
+    "url": "https://hh.ru/vacancy/126101754",
+    "salary_from": 100000,
+    "salary_to": 150000,
+    "employer": "Старт",
+    "requirement": "Опыт работы с АРІ. Базовые знания SQL (SELECT, JOIN, агрегации). DataLens. <highlighttext>Python</highlighttext> (pandas, requests, gspread). Понимание принципов ETL. Аналитическое мышление. "
+  },
+  {
+    "name": "Senior/Middle/Тестировщик ПО (вендор, импортозамещение, инфраструктурное ПО, каталоги на Linux)",
+    "url": "https://hh.ru/vacancy/126536869",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "МД Информационные Системы",
+    "requirement": "Знакомство c механизмами безопасности в ОС Linux (Kerberos, GSSAPI, SSH). Знакомство с синтаксисом <highlighttext>Python</highlighttext>/JS, умение программировать. Опыт составления и..."
+  },
+  {
+    "name": "Начинающий чатовый сотрудник для маркетплейса (без продаж)",
+    "url": "https://hh.ru/vacancy/126155393",
+    "salary_from": 38300,
+    "salary_to": 65450,
+    "employer": "ТЭМП",
+    "requirement": "У вас грамотная письменная речь. Наличие ПК/ноутбука, стабильного интернета и гарнитуры."
+  },
+  {
+    "name": "QA Engineer",
+    "url": "https://hh.ru/vacancy/126669032",
+    "salary_from": 200000,
+    "salary_to": 200000,
+    "employer": "Акцент",
+    "requirement": "Опыт ручного или функционального тестирования от 3 лет. Знание методологий тестирования, включая функциональное, регрессионное, интеграционное, нагрузочное и другие виды. "
+  },
+  {
+    "name": "Тестировщик ПО",
+    "url": "https://hh.ru/vacancy/126628112",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "ФГУП ПВС МВД России",
+    "requirement": "Опыт работы с базами данных (MySQL, PostgreSQL). Базовые знания программирования (<highlighttext>Python</highlighttext>, Java, JavaScript). Опыт нагрузочного тестирования (JMeter, Gatling). "
+  },
+  {
+    "name": "Data Analyst",
+    "url": "https://hh.ru/vacancy/126737581",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "Циан",
+    "requirement": "Имеет опыт работы от 2 лет в качестве продуктового, дата или операционного аналитика. Уверенно владеет <highlighttext>Python</highlighttext> (pandas), SQL. "
+  },
+  {
+    "name": "Java-разработчик (middle)",
+    "url": "https://hh.ru/vacancy/126769780",
+    "salary_from": 140000,
+    "salary_to": 140000,
+    "employer": "Крокодил",
+    "requirement": "Есть понимание принципов REST и протокола HTTP. Опыт работы с системами контейнеризации. Опыт или желание писать код на <highlighttext>Python</highlighttext>."
+  },
+  {
+    "name": "Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/126794267",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "ZAVOD Games",
+    "requirement": "Умение проектировать схемы (ER-диаграммы: users, games, payments, notifications). Опыт работы с миграциями (Flyway/Alembic/Knex для версионирования). "
+  },
+  {
+    "name": "Тестировщик/ QA-инженер (менеджер качества) senior",
+    "url": "https://hh.ru/vacancy/126763493",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "АФЛТ-Системс",
+    "requirement": "Лидерские навыки: менторинг. Опыт работы с Pytest / Selenium / Playwright. Знание <highlighttext>Python</highlighttext> для автоматизации тестов. Опыт работы с Docker, k8..."
+  },
+  {
+    "name": "Руководитель отдела IT",
+    "url": "https://hh.ru/vacancy/126788687",
+    "salary_from": 0,
+    "salary_to": 0,
+    "employer": "БАЗИС",
+    "requirement": "Опыт работы в среде Jira / Confluence. Опыт внедрения автоматизаций (Ansible, Terraform, <highlighttext>Python</highlighttext>-скрипты). Опыт повышения скорости выполнения проектов в проектах. "
+  },
+  {
+    "name": "Младший специалист по тестированию (QA manual (junior))",
+    "url": "https://hh.ru/vacancy/125709782",
+    "salary_from": 80000,
+    "salary_to": 80000,
+    "employer": "Панина Анастасия Александровна",
+    "requirement": "### **Будет плюсом (но не обязательно):**. - Опыт в автоматизации (<highlighttext>Python</highlighttext>/Java/JavaScript + Selenium, Playwright, Cypress). - Знание CI/CD (Jenkins..."
+  }
+]
