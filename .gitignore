@@ -1,0 +1,41 @@
+# Virtual environments
+.venv/
+venv/
+env/
+Coursework-2-1-py3.13/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Poetry
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
